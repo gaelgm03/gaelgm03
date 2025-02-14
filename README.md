@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Universidad Panamericana in Panteras Dev student group
 - 🌱 I’m currently studying Data Intelligence and Cybersecurity Engineering at Universidad Panamericana 
 - 👯 I’m looking to collaborate on any Project
