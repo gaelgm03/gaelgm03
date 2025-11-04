@@ -1,9 +1,28 @@
-## Hi there 👋
+## 👋 Hi there, I'm Gael Guzmán  
 
-- 🔭 I’m currently working on Universidad Panamericana in Panteras Dev student group
-- 🌱 I’m currently studying Data Intelligence and Cybersecurity Engineering at Universidad Panamericana 
-- 👯 I’m looking to collaborate on any Project
-- 📫 How to reach me: 
-    - email: gguzmun@gmail.com
-    - linkedin: https://www.linkedin.com/in/gael-guzm%C3%A1n-190b6b332/ 
+🎓 **Data Intelligence & Cybersecurity Engineering student** at **Universidad Panamericana (UP)**  
+💡 **MIT AI+X | BlendED Learner**  
+🚀 **iOS Lab member**
 
+---
+
+### 🧠 About Me
+- 🌱 Focused on **Artificial Intelligence**, **Data Engineering**, and **Cybersecurity innovation**  
+- 🤝 Open to collaborating on projects related to:
+  - AI and data-driven applications  
+  - Full-stack or backend development  
+  - Network security & observability tools  
+- 🧩 Passionate about connecting **technology, creativity and impact**
+
+---
+
+### ⚙️ Tech Stack
+`Python` · `JavaScript` · `PHP` · `SQL` · `HTML/CSS` · `Bootstrap` · `FastAPI` · `MySQL` · `Docker` · `Kubernetes`  
+`OpenTelemetry` · `Grafana` · `Jaeger` · `Git/GitHub`
+
+---
+
+### 📬 Get in Touch
+- 📧 **Email:** [gguzmun@gmail.com](mailto:gguzmun@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/gael-guzmán-190b6b332](https://www.linkedin.com/in/gael-guzmán-190b6b332/)  
+- 🧭 **GitHub:** [github.com/gguzmun](https://github.com/gguzmun)
