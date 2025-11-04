@@ -34,4 +34,3 @@
 ### 🌐 Connect with Me
 - 📧 **Email:** [gguzmun@gmail.com](mailto:gguzmun@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/gael-guzman-munguia-190b6b332/](https://www.linkedin.com/in/gael-guzman-munguia-190b6b332/)  
-- 🧭 **GitHub:** [github.com/gguzmun](https://github.com/gguzmun)
